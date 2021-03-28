@@ -1,0 +1,28 @@
+li {
+    list-style: none;
+}
+.footer {
+    background-color: black;
+    color: white;
+    height: 120px;
+    padding: 40px;
+
+}
+.footer-about-list {
+    float: left;
+}
+.footer-about-list li {
+    padding-bottom: 10px;
+  }
+.footer-contact-list {
+    float: middle;
+    padding-left: 400px;
+    
+}
+.footer-contact-list li {
+    padding-bottom: 10px;
+}
+.title {
+    color:chartreuse;
+    font-size: 20px;
+}
